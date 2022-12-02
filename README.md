@@ -23,10 +23,10 @@ SO THAT I can keep a list of books to purchase
 
 # Screenshots
 ## Homepage!
-![Alt text](assets\MernHomePage.png )
+<img src = assets\MernHomePage.png>
 
 ## GIF of Saving and Deleting Books
-![Alt text](assets\MERNpost&Del.gif)
+<img src = assets\MERNpost&Del.gif>
 
 ## LINKS
 Heroku: https://mysterious-spire-44923.herokuapp.com/
